@@ -1,5 +1,5 @@
 body {
-  color: #09a8fa;
+  color: #0033c7;
   background-color: white;
   font-size: 16px;
   font-weight: 10;
@@ -13,7 +13,7 @@ p{
 }
 
 h2{
-  color: #09a8fa;
+  color: #0033c7;
   font-size: 20px;
 }
 
@@ -52,7 +52,7 @@ div {width: 525px;
   border-radius: 2%;
   width: 100px;
   height: 100px;
-  border: 3px dotted #09a8fa;
+  border: 3px dotted #0033c7;
   padding: 5px;
 }
 .social-media-icons {
@@ -66,7 +66,7 @@ div {width: 525px;
 }
 
 .card {
-  background-color: #3c3c3d;
+  background-color: #cde8f6;
   padding: 20px;
   margin-bottom: 20px;
   border-radius: 4px;
@@ -79,7 +79,7 @@ div {width: 525px;
 }
 
 .btn-blue{
-  background-color: #09a8fa;
+  background-color: #0033c7;
   color: black;
   font-weight: 500;
   padding: 10px;
