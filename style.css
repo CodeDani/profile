@@ -1,6 +1,6 @@
 body {
   color: #09a8fa;
-  background-color: black;
+  background-color: white;
   font-size: 16px;
   font-weight: 10;
   font-family: 'Inconsolata', monospace;
@@ -10,11 +10,6 @@ body {
 p{
   font-size: 16px;
   text-align: justify;
-  width: 500px;
-  padding-bottom: 0px;
-  padding-right: 0px;
-  padding-top: 0px;
-  margin: auto;
 }
 
 h2{
