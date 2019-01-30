@@ -76,6 +76,7 @@ div {
 .center {
   text-align: center;
   padding: 70px 0;
+  margin: auto;
 }
 
 .btn-blue{
