@@ -12,6 +12,13 @@ p{
   width: 500px;
 }
 
+div {
+  border-top: : 1px dotted #8a11d1;
+  border-right: 1px dotted #8a11d1;
+  border-bottom: 1px dotted #8a11d1;
+  border-left: 1px dotted #8a11d1;
+}
+
 .container {
   width: 500px;
   margin: 0 auto;
