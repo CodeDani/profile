@@ -16,10 +16,10 @@ body {
 .text-center {
   text-align: center;
 }
-.card-white {
-  background: white;
+.card-black {
+  background: black;
   padding: 30px;
-  border: 1px solid lightgrey;
+  border: 1px solid #09a8fa;
 }
 
 .list-inline > li {
