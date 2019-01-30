@@ -70,7 +70,8 @@ div {
   background-color: #3c3c3d;
   padding: 20px;
   margin-bottom: 20px;
-  border-radius: 2px;
+  border-radius: 4px;
+  box-shadow: 0px 1px 2px 0px rgba(0, 0, 0, 0.2);
 }
 
 .center {
@@ -90,12 +91,12 @@ div {
   padding-left: 0px;
 }
 
-.list-inline > li {
+.list-inline li {
   display: inline-block;
   padding: 20px;
 }
 
-.list-inline i {
+.list-inline li {
   font-size: 25px;
 }
 
