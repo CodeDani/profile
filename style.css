@@ -5,12 +5,14 @@ body {
   font-weight: 10;
   font-family: 'Inconsolata', monospace;
   width: 500px;
+  margin: 0 auto;
 }
 
 p{
   font-size: 16px;
   text-align: justify;
   width: 500px;
+  margin: 0 auto;
 }
 
 div {
