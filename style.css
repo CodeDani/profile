@@ -5,6 +5,11 @@ body {
   font-weight: 10;
   font-family: 'Inconsolata', monospace;
 }
+
+.p{
+  width: 500px
+}
+
 .container {
   width: 500px;
   margin: 0 auto;
