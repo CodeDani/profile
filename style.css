@@ -6,7 +6,6 @@ body {
   font-family: 'Inconsolata', monospace;
   width: 500px;
   margin: 0 auto;
-  padding: 30px;
 }
 
 p{
@@ -22,7 +21,6 @@ div {
 
 .container {
   width: 500px;
-  margin: 0 auto;
 }
 
 .img-circle {
