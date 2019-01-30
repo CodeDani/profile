@@ -35,6 +35,7 @@ div {
 
 .container {
   width: 500px;
+  margin: 20px auto;
 }
 
 .img-circle {
@@ -42,11 +43,6 @@ div {
 }
 .text-center {
   text-align: center;
-}
-.card-black {
-  background: black;
-  padding: 30px;
-  border: 1px solid #09a8fa;
 }
 
 .list-inline > li {
@@ -78,6 +74,7 @@ div {
   border: 5px rgb(85,85,85);
   margin: 5px ;
   border-radius: 2px
+  text-align: center;
 }
 
 .center {
