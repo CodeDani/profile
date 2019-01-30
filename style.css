@@ -68,10 +68,9 @@ div {
 
 .card {
   background-color: #3c3c3d;
-  padding-top: 5px;
-  padding-bottom: 5px;
-  border: 5px rgb(85,85,85);
-  margin: 5px ;
+  border: 5px #09a8fa;
+  padding: 20px;
+  margin-bottom: 20px;
   border-radius: 2px
   text-align: center;
 }
@@ -80,6 +79,24 @@ div {
   text-align: center;
   padding-left: 0px;
 }
+
+.btn-blue{
+  background-color: #09a8fa;
+  color: black;
+  font-weight: 500;
+  padding: 10px;
+  border-radius: 4px;
+}
+
+.list-inline {
+  padding-left: 0;
+}
+
+.list-inline li {
+  display: inline-block;
+  padding: 20px;
+}
+
 
 a {
   color: #9edeff;
