@@ -4,7 +4,6 @@ body {
   font-size: 16px;
   font-weight: 10;
   font-family: 'Inconsolata', monospace;
-  width: 500px;
 }
 
 p{
@@ -29,11 +28,6 @@ div {
 
 #page-content {
   margin-left: 120px;
-}
-
-.container {
-  width: 500px;
-  margin: 30px auto;
 }
 
 .img-circle {
@@ -69,6 +63,7 @@ div {
   background-color: #cde8f6;
   padding: 20px;
   margin: 0 auto 20px auto;
+  width: 400px;
   border-radius: 4px;
   box-shadow: 0px 1px 2px 0px rgba(0, 0, 0, 0.2);
 }
