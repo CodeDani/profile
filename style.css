@@ -1,5 +1,5 @@
 body {
-  color: #8a11d1;
+  color: #09a8fa;
   background-color: black;
   font-size: 16px;
   font-weight: 10;
@@ -8,15 +8,16 @@ body {
 }
 
 p{
+  font-size: 16px;
   text-align: justify;
   width: 500px;
 }
 
 div {
-  border-top: : 1px dotted #8a11d1;
-  border-right: 1px dotted #8a11d1;
-  border-bottom: 1px dotted #8a11d1;
-  border-left: 1px dotted #8a11d1;
+  border-top: : 1px dotted #09a8fa;
+  border-right: 1px dotted #09a8fa;
+  border-bottom: 1px dotted #09a8fa;
+  border-left: 1px dotted #09a8fa;
 }
 
 .container {
